@@ -1,0 +1,43 @@
+:root {
+	--ff-oldstandard: 'Old Standard TT', serif;
+	--ff-farsan: 'Farsan', cursive;
+	--bg-blue: rgba(0,0,240, 0.9);
+  --btn-buy-main: rgba(0, 220, 0, 1);
+  --btn-buy-light: rgba(0, 220, 0, 0.7);
+	--badge: rgba(250, 0, 0, 0.5);
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	font-size: 18px;
+}
+
+span {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+img {
+	width: 100%;
+}
